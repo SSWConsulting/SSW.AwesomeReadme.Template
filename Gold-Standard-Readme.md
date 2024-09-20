@@ -3,7 +3,7 @@
 
 # {{ TITLE }}
 
-## About the project
+## 💼 About the project
 {{ DESCRIPTION OF PROJECT - INCLUDE BULLET POINTS FOR KEY FEATURES }}
 
 
@@ -25,9 +25,9 @@
 ### Contributing
 {{ CONTRIBUTOR INSTRUCTIONS }}
 
-### 🙏Become a sponsor
+### Become a sponsor!
 {{ Donation Links }}
 
 
-#### 👋 Reach out to us!
+### 👋 Reach out to us!
 {{ SOCIAL MEDIA LINKS (E.G. DISCORD) }}
