@@ -8,11 +8,19 @@
 ### 🎥 Getting set up 
 {{ OPTIONAL - HOW TO VIDEO FOR RUNNING THE PROJECT - EMBED YOUTUBE VIDEO }}
 
-## Installation for users
+## 🤵Installation for users
 {{ INSTALLATION INSTRUCTIONS - FOR END USERS }}
 
-## Contributor expectations
+## 🤝 How to contribute
+
+### Contributor expectations
 {{ CONTRIBUTOR INSTRUCTIONS, E.G. DEFINITION OF DONE }}
+
+### Branching strategy
+{{ INSTRUCTIONS FOR BRANCHING, MERGING, AND DEPLOYING CHANGES }}
+
+### Definition of Done
+{{ STEPS TO COMPLETING A PBI }}
 
 ## 💼 About the project
 {{ DESCRIPTION OF PROJECT - INCLUDE BULLET POINTS FOR KEY FEATURES }}
