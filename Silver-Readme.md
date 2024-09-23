@@ -2,31 +2,23 @@
 
 # {{ TITLE }}
 
+## 💻 Running the Project
+{{ STEPS FOR RUNNING THE PROJECT LOCALLY }}
+
+### 🎥 Getting set up 
+{{ OPTIONAL - HOW TO VIDEO FOR RUNNING THE PROJECT - EMBED YOUTUBE VIDEO }}
+
+## Installation for users
+{{ INSTALLATION INSTRUCTIONS - FOR END USERS }}
+
+## Contributor expectations
+{{ CONTRIBUTOR INSTRUCTIONS, E.G. DEFINITION OF DONE }}
+
 ## 💼 About the project
 {{ DESCRIPTION OF PROJECT - INCLUDE BULLET POINTS FOR KEY FEATURES }}
 
-
-## 🥅 Project Goals
-{{ WHAT ISSUE DOES THE PROJECT AIM SOLVE? }}
-
+### 🔭 Project Scope
+{{  EXPLAIN THE GOAL OF THE PROJECT & CONSTRAINTS }}
 
 ## 🎥 Explanation Video 
-{{ EMBED YOUTUBE LINK - EXPLANATION VIDEO }}
-
-
-## 🎉 Getting Started
-
-{{ STEP BY STEP INSTRUCTIONS FOR RUNNING THE PROJECT }}
-
-
-## 🤝How You can Help
-
-### Contributing
-{{ CONTRIBUTOR INSTRUCTIONS }}
-
-### Become a sponsor!
-{{ Donation Links }}
-
-
-### 👋 Reach out to us!
-{{ SOCIAL MEDIA LINKS (E.G. DISCORD) }}
+{{ OpTONAL - EXPLANATION/DEMO/WHAT THE PROJECT ACHIEVES - EMBED YOUTUBE LINK }}
