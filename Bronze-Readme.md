@@ -1,10 +1,11 @@
-{{ BANNER IMAGE }}}
 
 # {{ TITLE }}
+
+## ❓ What is this? 
+{{ SHORT SUMMARY OF THE PROJECT }}
 
 ## 💻 Running the Project
 {{ STEPS FOR RUNNING THE PROJECT LOCALLY }}
 
-
-## ❓ What is this? 
-{{ SHORT SUMMARY OF THE PROJECT }}
+## 🌲 Branching strategy
+{{ PROCESS FOR GETTING CHANGES MERGED & DEPLOYED }}
