@@ -31,3 +31,6 @@
 
 ### 👋 Reach out to us!
 {{ SOCIAL MEDIA LINKS (E.G. DISCORD) }}
+
+### 🐛 Known Issues
+{{ LINK TO .MD FILE WITH KNOWN BUGS }}
