@@ -1,4 +1,4 @@
-[minions holding readme](banner.png)
+![minions holding readme](banner.png)
 
 💼 About the Project
 A README can often be a potential contributor's first impression of your project. It communicates:
