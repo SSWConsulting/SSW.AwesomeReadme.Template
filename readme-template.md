@@ -22,6 +22,9 @@
 
 {{ ARCHITECTURE DIAGRAM IMAGE }}
 
+## 🤔How it Works
+{{ LINK TO .MD FILE WITH END USER DOCUMENTATION }}
+
 ## Contributing
 
 ### 💻 Running the Project
