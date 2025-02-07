@@ -6,32 +6,44 @@
 
 {{ DESCRIPTION OF PROJECT - INCLUDE BULLET POINTS FOR KEY FEATURES }}
 
-## 🥅 Project Goals
-
-{{ WHAT ISSUE DOES THE PROJECT AIM SOLVE? }}
-
 ## 🎥 Explanation Video
 
 {{ EMBED YOUTUBE LINK - EXPLANATION VIDEO }}
 
-## 🎉 Getting Started
+### 🥅 Project Goal
 
-{{ STEP BY STEP INSTRUCTIONS FOR RUNNING THE PROJECT }}
+{{ EXPLAIN THE GOAL OF THE PROJECT }}
 
-## 🤝How You can Help
+### 🔭 Project Scope
 
-### Contributing
+{{ EXPLAIN THE GOAL OF THE PROJECT & CONSTRAINTS }}
 
-{{ CONTRIBUTOR INSTRUCTIONS }}
+### 🏗️ Architecture
 
-### Become a sponsor!
+{{ ARCHITECTURE DIAGRAM IMAGE }}
 
-{{ Donation Links }}
+## Contributing
 
-### 👋 Reach out to us!
+### 💻 Running the Project
 
-{{ SOCIAL MEDIA LINKS (E.G. DISCORD) }}
+{{ LINK TO .MD FILE WITH INFO ABOUT RUNNING THE PROJECT LOCALLY }}
 
-### 🐛 Known Issues
+### 🚀 Deploying your changes
+
+{{ LINK TO .MD FILE WITH INFO ABOUT DEPLOYING CHANGES }}
+
+### ✅ Definition of Done
+
+{{ STEPS TO COMPLETING A PBI }}
+
+### 🙏 Become a sponsor!
+
+{{ DONATION LINKS }}
+
+## 👋 Reach out to us!
+
+{{ EMBEDDED SOCIAL MEDIA LINKS (E.G. DISCORD) }}
+
+## 🐛 Known Issues
 
 {{ LINK TO .MD FILE WITH KNOWN BUGS }}
