@@ -6,7 +6,7 @@
 
 {{ DESCRIPTION OF PROJECT - INCLUDE BULLET POINTS FOR KEY FEATURES }}
 
-## 🎥 Explanation Video
+### 🎥 Explanation Video
 
 {{ EMBED YOUTUBE LINK - EXPLANATION VIDEO }}
 
